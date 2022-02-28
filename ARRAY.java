@@ -151,20 +151,6 @@ public class ARRAY {
 	public static void main(String[] args)
 	{
 		Scanner sc=new Scanner(System.in);
-//		for(int i=0 ; i<6 ; i++)//size is 4 but we can store more than 4 numbers using grow function.
-//		{
-//			insertatlast();
-//		}
-//		display();
-//		insertatstart();
-//		display();
-//		System.out.println();
-//		System.out.println("remove last :");
-//		removelast();
-//		System.out.println();
-//		countarray();
-//		search();
-		
 		int x;
 		do {
 			System.out.println("enter 1 for insert value at last");
